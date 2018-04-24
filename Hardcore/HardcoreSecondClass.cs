@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace Hardcore
 {
-    public class HardcoreClass
+    public class HardcoreSecondClass
     {
-        public void DoSomething()
-        {
-            int counter = 0;
-            counter++;
-        }
     }
 }
