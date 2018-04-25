@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="HardcoreClass.cs" />
+    <Compile Include="HardcoreFourthClass.cs" />
     <Compile Include="HardcoreSecondClass.cs" />
     <Compile Include="HardcoreThirdClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
