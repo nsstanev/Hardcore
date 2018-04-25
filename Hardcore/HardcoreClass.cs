@@ -13,5 +13,12 @@ namespace Hardcore
             int counter = 0;
             counter++;
         }
+
+        public void DoSomethingElse()
+        {
+            int counter = 0;
+            counter++;
+        }
+
     }
 }
